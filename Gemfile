@@ -1,2 +1,2 @@
 #dummy
-gem 'zendesk_channels', '~> 1.70.6'
+gem 'test_gem', '~> 1.70.6'
